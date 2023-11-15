@@ -2,7 +2,7 @@
 
 Repository for the code developed in the context of my thesis entitled "Security in Hybrid ITS Networks" for the master's degree in Computer Science and Engineering at Instituto Superior de Engenharia de Lisboa (ISEL). This thesis was developed with the guidance of professors José Simão and Nuno Datia.
 
-The dissertation will soon be available [here](https://github.com/RicardoFilipe99/Private-Security-in-Hybrid-ITS-Networks/blob/main/docs).
+The dissertation will soon be available [here](https://github.com/RicardoFilipe99/Security-in-Hybrid-ITS-Networks/blob/main/docs).
 
 ### Table of contents
 - [Addressed Problem](#addressed-problem)

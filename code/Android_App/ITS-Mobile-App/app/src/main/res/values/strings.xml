@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">ITS Mobile App</string>
+
+    <string name="activity_main_send_cam_button_text">Send CAM</string>
+    <string name="activity_main_stop_cam_button_text">Stop</string>
+    <string name="activity_main_send_denm_button_text">Send DENM</string>
+
+    <string name="view_message_text_title">Message History</string>
+    <string name="view_message_text_default_message">So far, no messages received or sent…</string>
+
+</resources>

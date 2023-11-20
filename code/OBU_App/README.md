@@ -1,6 +1,6 @@
 ## On-board unit (OSU) application
 
-The OBU equipment used was the Unex EVK-301E. These are present in vehicles and other ITS-stations.
+The OBU equipment used was the Unex EVK-301E. These are present in vehicles.
 
 <p align="center">
     <img src="../../docs/img/obu.png" width="200px" alt="on-board unit equipment" />

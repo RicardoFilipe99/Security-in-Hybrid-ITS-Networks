@@ -4,6 +4,10 @@ Repository for the code developed in the context of my thesis entitled "Security
 
 The dissertation will soon be available [here](https://github.com/RicardoFilipe99/Security-in-Hybrid-ITS-Networks/blob/main/docs).
 
+From this thesis, the following paper has been published:
+
+Ricardo Severino, José Simão, Nuno Datia and António Serrador, "[Protecting Hybrid ITS Networks: A Comprehensive Security Approach](https://doi.org/10.3390/fi15120388)", MDPI, Future Internet journal, November 2023.
+
 ### Table of contents
 - [Addressed Problem](#addressed-problem)
 - [Proposed Approach](#proposed-approach)

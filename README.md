@@ -1,6 +1,6 @@
 # Security in Hybrid ITS Networks
 
-Repository for the code developed in the context of my thesis entitled "Security in Hybrid ITS Networks" for the master's degree in Computer Science and Engineering at Instituto Superior de Engenharia de Lisboa (ISEL). This thesis was developed with the guidance of professors José Simão and Nuno Datia.
+Repository for the code developed in the context of my thesis entitled "Security in Hybrid ITS Networks" for the master's degree in Computer Science and Engineering at Instituto Superior de Engenharia de Lisboa (ISEL). This thesis was developed with the guidance of professors [José Simão](https://www.isel.pt/docentes/jose-manuel-de-campos-lages-garcia-simao) and [Nuno Datia](https://www.isel.pt/docentes/nuno-miguel-soares-datia).
 
 ### Table of contents
 - [Documents](#documents)

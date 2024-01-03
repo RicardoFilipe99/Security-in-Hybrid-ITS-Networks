@@ -9,7 +9,7 @@ Repository for the code developed in the context of my thesis entitled "Security
 
 ## Documents
 
-The dissertation will soon be available [here](https://github.com/RicardoFilipe99/Security-in-Hybrid-ITS-Networks/blob/main/docs).
+The dissertation is available [here](https://github.com/RicardoFilipe99/Security-in-Hybrid-ITS-Networks/blob/main/docs).
 
 We had the opportunity to disclose part of the work developed and results obtained in the context of this thesis, in the following [paper](https://doi.org/10.3390/fi15120388):
 
